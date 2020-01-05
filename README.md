@@ -56,8 +56,8 @@ To ptogram your microcontroler in the proteus , just double click on it and choo
 
 Reach out to me at one of the following places!
 
-- Telegram at <a href="https://t.me/sajedi_nick" target="_blank">@sajede_nick</a>
-- Gmail at <a href="mailto:sajedenicknadaf78@gmail.com" target="_blank">sajedenicknadaf78@gmail.com</a>
+- Telegram at <a href="https://t.me/sajede_nick" target="_blank">@sajede_nick</a>
+- Gmail at <a href="mailto:sajede.nicknadaf78@gmail.com" target="_blank">sajede.nicknadaf78@gmail.com</a>
 
 ## **License**
 
