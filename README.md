@@ -13,8 +13,8 @@ For implementing this code yourself, You Need to install below applications :
 - <a href="https://www.microchip.com/mplab/avr-support/atmel-studio-7">`Atmel Studio`</a> 
 - <a href="https://www.labcenter.com/downloads/">`Proteus`</a> 
 - <a href="https://www.amazon.com/ATMEGA32-16PU-Microcontroller-System-Programmable-ATMEGA/dp/B071VYGJB9">`Avr Atmega32`</a>
-- <a href="https://www.amazon.com/DiCUNO-450pcs-Emitting-Assorted-Yellow/dp/B072B75W79?ref_=ast_slp_dp">LEDs</a>
-- <a href="https://www.amazon.com/100pcs-Momentary-Tactile-Button-6x6x5mm/dp/B0814G432F/ref=sr_1_5?crid=1DVKGK9CIDSEK&keywords=micro+push+button+switch+on+off&qid=1578182677&sprefix=push+button+switch+on+off+%2Caps%2C367&sr=8-5">Push Button</a>
+- <a href="https://www.amazon.com/DiCUNO-450pcs-Emitting-Assorted-Yellow/dp/B072B75W79?ref_=ast_slp_dp">`LEDs`</a>
+- <a href="https://www.amazon.com/100pcs-Momentary-Tactile-Button-6x6x5mm/dp/B0814G432F/ref=sr_1_5?crid=1DVKGK9CIDSEK&keywords=micro+push+button+switch+on+off&qid=1578182677&sprefix=push+button+switch+on+off+%2Caps%2C367&sr=8-5">`Push Button`</a>
 
 
 ## Step1 : Create the C code in Atmel Studio
